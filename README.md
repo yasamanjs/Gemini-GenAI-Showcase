@@ -1,4 +1,4 @@
-# 🧠 Kaggle Generative AI Code Labs
+# 🧠 Hands-On Generative AI with Gemini:
 
 This repository contains hands-on code labs from the [Kaggle 5-Day Generative AI Course](https://www.kaggle.com/learn-guide/5-day-genai). These labs explore key capabilities of Google’s Gemini models and demonstrate how to apply them to real-world use cases like structured generation, few-shot prompting, embeddings, RAG, agents, and custom fine-tuning.
 
