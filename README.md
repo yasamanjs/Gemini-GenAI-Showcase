@@ -6,16 +6,19 @@ Each notebook is self-contained and follows a well-documented, interactive style
 
 ---
 
-## 🚀 What You’ll Learn
+## 🔧 GenAI Capabilities Demonstrated
 
-- ✅ Structured output and evaluation with Gemini
-- 💬 Prompt engineering (zero-shot, few-shot, chain-of-thought)
-- 🔍 Semantic search using embeddings and similarity scores
-- 📄 Document Q&A with Retrieval-Augmented Generation (RAG)
-- 🤖 Multi-turn agents with LangGraph
-- 🔧 Function calling with Gemini for tool use
-- 🧪 Fine-tuning task-specific Gemini models
-- 🌐 Grounding model responses with Google Search
+This repository reflects my hands-on experience with the following generative AI techniques and tools:
+
+- ✅ **Structured Output & Evaluation** — generating JSON and validating responses programmatically
+- 💡 **Prompt Engineering** — applying zero-shot, few-shot, and chain-of-thought techniques
+- 🧠 **Embeddings & Semantic Similarity** — measuring textual closeness and building classifiers
+- 📄 **Document Q&A with RAG** — implementing retrieval-augmented generation workflows
+- 🤖 **Agents with LangGraph** — building multi-turn, decision-making chat agents
+- 🔌 **Function Calling with Gemini API** — enabling tool use through structured model outputs
+- 🛠️ **Model Fine-Tuning** — customizing Gemini for task-specific performance
+- 🌐 **Search Grounding** — enhancing factual accuracy using Google Search integration
+
 
 ---
 
