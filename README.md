@@ -49,7 +49,7 @@ This repository reflects my hands-on experience with the following generative AI
 
 ## 💡 Inspiration
 
-These code labs inspired the design and structure of my [Capstone Project](#) (coming soon), focusing on interpretable and testable applications of generative models.
+These code labs inspired the design and structure of my [Capstone Project](https://github.com/yasamanjs/MedBot-A-GenAI-Powered-Assistant-for-Classifying-and-Responding-to-Medical-Transcriptions) (MedBot), a Gen AI assistant to analyze medical transcriptions and patient summaries.
 
 ---
 
